@@ -1,4 +1,4 @@
-import Team from "../app";
+import Team from "../team";
 
 test("add", () => {
   const team = new Team();
